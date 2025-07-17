@@ -5,6 +5,6 @@ pod_cidrs = ["10.244.0.0/16", "10.245.0.0/16"]
 
 service_cidr = "10.34.0.0/16"
 
-source_ip_ranges = "39.51.125.115/32"
+source_ip_ranges = "34.54.100.125/32"
 
 
